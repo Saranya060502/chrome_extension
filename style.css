@@ -1,0 +1,23 @@
+body {
+   
+    border-radius: 30px 30px 30px 30px;
+    background: #b7e378;
+    border: 2px solid #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 450px;
+  background-image: url("trophy.jpeg");
+  background-repeat: no-repeat;
+  
+  background-size: 350px 500px;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: 580;
+  font-size: 12px;
+  font-family: "Trirong", serif;
+  line-height: 1.4;
+ 
+ 
+    
+}
+
